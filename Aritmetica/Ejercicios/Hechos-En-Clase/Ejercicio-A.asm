@@ -13,6 +13,7 @@ msg db "(4 * 2) / (2 + 2) = $"
 
             mov dx, offset msg
             mov ah , 09h
+            
             int 21h
 
             ;---VARIABLES---

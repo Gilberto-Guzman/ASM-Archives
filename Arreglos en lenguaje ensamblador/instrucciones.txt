@@ -1,8 +1,0 @@
-elaborar un programa en ensamblador que contenga 10 numeros y verificar cuantos numeros hay de acuerdo a lo que el usuario
-
-
-user = 5
-
-arreglo [1 2 3 4 5 5 5]
-
-respuesta = 3 veces el numero 5
