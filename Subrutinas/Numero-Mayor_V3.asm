@@ -1,8 +1,8 @@
 .model small
 .stack 64
 .data
-    numero1 db 2
-    numero2 db 5
+    numero1 dw 2
+    numero2 dw 5
 .code
     .startup
         mov ax,@data
